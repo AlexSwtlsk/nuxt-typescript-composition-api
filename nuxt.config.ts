@@ -37,7 +37,7 @@ export default {
 
   vite: {
     ssr: true,
-    build: true,
+    build: false,
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
