@@ -45,7 +45,7 @@
     "lint-staged": "^12.1.5",
     "nuxt-vite": "^0.2.4",
     "prettier": "^2.3.2",
-    "stylelint": "^14.2.0",
+    "stylelint": "^14.8.1",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^24.0.0",
     "ts-jest": "^27.0.3",
